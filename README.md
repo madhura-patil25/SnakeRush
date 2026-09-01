@@ -1,4 +1,4 @@
-# 🐍 SnakeRush
+#  SnakeRush
 
 SnakeRush is a simple Snake Game developed using Python and Pygame.
 
@@ -13,7 +13,7 @@ SnakeRush is a simple Snake Game developed using Python and Pygame.
 - Restart option
 - Simple background
 
-## 🕹️ Controls
+##  Controls
 
 - ↑ — Move Up
 - ↓ — Move Down
@@ -22,12 +22,12 @@ SnakeRush is a simple Snake Game developed using Python and Pygame.
 - SPACE — Start Game
 - R — Restart after Game Over
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - Pygame
 
-## ▶️ How to Run
+## How to Run
 
 First, install Pygame:
 
@@ -41,7 +41,7 @@ Then run the game:
 python snake_game.py
 ```
 
-## 📁 Project Files
+## Project Files
 
 - `snake_game.py` — Main game code
 - `apple.png` — Apple image
